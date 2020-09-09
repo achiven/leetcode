@@ -13,8 +13,7 @@ public class Solution_380_Insert_Delete_GetRandom_O_1 {
         /**
          * Initialize your data structure here.
          */
-        public Solution() {
-
+        public Solution() { 
         }
 
         /**
